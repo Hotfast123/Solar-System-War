@@ -6,5 +6,5 @@ Using:
 - Loops and Arrays
 - Functions
 - Dynamic Memory Allocation
-- If and else Statements 
-- Ints, Bool, Char, String, 
+- If and Else Statements 
+- Int, Bool, Char and String 
