@@ -1,7 +1,7 @@
 # Solar-System-War
 
  First year TOGA project
-Useing: 
+Using: 
 - Classes 
 - Loops and Arrays
 - Functions
